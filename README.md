@@ -1,3 +1,2 @@
-# 1st-project-idk-
-i have no idea what im doing
-//just a simple madlib to fill out in repl if you want to.
+# 1st-project-idk
+Madlib based on Eggman's twitter announcement. Copy paste code in repl and run to fill it out if you want to 
